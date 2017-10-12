@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串类封装", "字符串类封装\字符串类封装.vcxproj", "{27200E02-47A1-4BC9-BE4A-95145F47ADFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27200E02-47A1-4BC9-BE4A-95145F47ADFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27200E02-47A1-4BC9-BE4A-95145F47ADFD}.Debug|Win32.Build.0 = Debug|Win32
+		{27200E02-47A1-4BC9-BE4A-95145F47ADFD}.Release|Win32.ActiveCfg = Release|Win32
+		{27200E02-47A1-4BC9-BE4A-95145F47ADFD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

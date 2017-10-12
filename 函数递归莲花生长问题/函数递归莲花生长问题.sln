@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数递归莲花生长问题", "函数递归莲花生长问题\函数递归莲花生长问题.vcxproj", "{E1AEFF53-DA5F-4AEC-8702-C0F6B9C4438B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AEFF53-DA5F-4AEC-8702-C0F6B9C4438B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1AEFF53-DA5F-4AEC-8702-C0F6B9C4438B}.Debug|Win32.Build.0 = Debug|Win32
+		{E1AEFF53-DA5F-4AEC-8702-C0F6B9C4438B}.Release|Win32.ActiveCfg = Release|Win32
+		{E1AEFF53-DA5F-4AEC-8702-C0F6B9C4438B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
